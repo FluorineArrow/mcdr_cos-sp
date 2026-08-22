@@ -17,11 +17,11 @@
 
 一个 [MCDReforged](https://github.com/Fallen-Breath/MCDReforged) 插件。输入 `!!cos sp`，一键获得 OP（管理员）权限。
 
-这里的 "sp" 是服里那位神权管理员。我们通过 "cos（扮演）" 他的方式，来（友好地）讽刺一下神权——别羡慕 sp 了，直接 cos 成 sp 就行。
+我们通过 cos 的方式，来快速获得神权——别羡慕，cos 一下就行。
 
 *A [MCDReforged](https://github.com/Fallen-Breath/MCDReforged) plugin. Type `!!cos sp` to instantly grant yourself OP.*
 
-*"sp" is that one god-like admin on the server. We "cosplay" them as a (friendly) dig at admin privilege — stop envying sp, just cos as sp.*
+*We use cosplay to quickly obtain divine power — no need to envy, just cosplay a bit.*
 
 ## 功能特性 / Features
 
