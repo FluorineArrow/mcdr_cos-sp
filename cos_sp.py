@@ -13,9 +13,9 @@ PLUGIN_METADATA = {
     'id': 'cos_sp',
     'version': '1.0.0',
     'name': 'Cos Sp',
-    'description': 'A MCDR plugin template',
-    'author': 'Your Name',
-    'link': 'https://github.com/yourname/cos_sp',
+    'description': 'Cosplay as the god-admin sp to grant yourself OP',
+    'author': 'FluorineArrow',
+    'link': 'https://github.com/FluorineArrow/mcdr_cos-sp',
     'dependencies': {
         'mcdreforged': '>=2.0.0',
     }
