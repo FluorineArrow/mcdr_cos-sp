@@ -74,7 +74,7 @@
 ## ⚠️ 免责声明 / Disclaimer
 
 该插件会向**任何**输入 `!!cos sp` 的玩家授予 OP 权限。请仅在私人/测试服或熟人间使用，**不要**用在公开服务器上。作者不对因此产生的任何后果负责。
-
+当然您也可以自己拷打ai把命令权限设置成2+，这样就只有管理能使用了（（（
 *This plugin grants OP to **any** player who runs `!!cos sp`. Use it only on private/test servers or among friends — **not** on public servers. The author takes no responsibility for any consequences.*
 
 ## License
